@@ -1,0 +1,47 @@
+.round{
+    height: 150px;
+    width: 150px;
+    margin-top: 150px;
+    border-radius: 150px;
+    background: #FFC107;
+    border: 1px solid #FFC107;
+    box-shadow: 0 5px 5px rgba(31, 28, 28, 0.73);
+}
+.eye{
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: -55px;
+    background: #5c3a13;
+}
+.eye1{
+     height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    background: #5c3a13;
+    margin-top: -19px;
+    margin-right: -45px;
+}
+.mouth{
+    height: 40px;
+    width: 70px;
+    margin-top:20px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    background: #5c3a13;
+}
+.teeth{
+    background: #fff;
+    height: 10px;
+    width: 60px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-top: 2px;
+    transform: translateY(4px);
+}
+h4{
+    letter-spacing: 8px;
+    margin-top: 80px;
+    color: #0a99fa;
+}
